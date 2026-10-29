@@ -15,8 +15,8 @@ Simulasi HP iPhone untuk AU dari sudut pandang Cayra. Satu halaman web, tanpa fr
 4. Tunggu 1–2 menit: `https://USERNAME.github.io/hp-cayra/`
 
 ## Mengganti foto
-Timpa file di `assets/` dengan foto baru **bernama sama** (.jpg).
-`assets/akun/` = foto profil & story akun · `assets/cayra/` = postingan Cay.Ra_ · `assets/timeline/` = postingan akun lain · `assets/wallpaper-layar-kunci.jpg` = wallpaper layar kunci · `assets/wallpaper-layar-utama.jpg` = wallpaper layar aplikasi
+Timpa file dengan foto baru **bernama sama** (.jpg).
+`akun/` = foto profil & story akun · `cayra/` = postingan Cay.Ra_ · `timeline/` = postingan akun lain · `wallpaper-layar-kunci.jpg` = wallpaper layar kunci · `wallpaper-layar-utama.jpg` = wallpaper layar aplikasi
 
 ## Mengubah isi chat / DM / komentar / X
 Buka `index.html`, tekan Ctrl+F:
@@ -26,6 +26,11 @@ Buka `index.html`, tekan Ctrl+F:
 Format pesan: `m|teks` (lawan bicara) · `a|teks` (Cayra) · `t|16.32` (jam) · `x|teks` (info sistem)
 
 ## Musik (Hearts2Hearts)
-Daftar lagu sudah terisi, tetapi file audionya tidak disertakan. Taruh mp3 milikmu di folder `songs/` dengan nama persis seperti ini:
+Daftar lagu sudah terisi, tetapi file audionya tidak disertakan. Taruh mp3 milikmu dengan nama persis seperti ini:
 `the-chase.mp3`, `butterflies.mp3`, `style.mp3`, `pretty-please.mp3`, `focus.mp3`, `apple-pie.mp3`, `flutter.mp3`, `blue-moon.mp3`, `rude.mp3`, `lemon-tang.mp3`, `15-love.mp3`, `baby-steps.mp3`, `heart-emoji.mp3`, `secret-recipe.mp3`
+Kalau file belum ada, ketuk ikon ⤒ di samping judul lagu untuk memilih mp3 dari perangkat (hanya berlaku selama halaman terbuka).
+
+## Musik (Babymonster)
+Daftar lagu sudah terisi, tetapi file audionya tidak disertakan. Taruh mp3 milikmu dengan nama persis seperti ini:
+'choom.mp3', 'shees.mp3', 'drip', 'moon.mp3', 'better up.mp3', 'forever.mp3', 'like that.mp3', 'hot sauce.mp3'
 Kalau file belum ada, ketuk ikon ⤒ di samping judul lagu untuk memilih mp3 dari perangkat (hanya berlaku selama halaman terbuka).
